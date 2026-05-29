@@ -1,0 +1,6 @@
+{
+  "name": "Falcon Cadet",
+  "description": "Premium MBBS officer-cadet training, study, and financial accountability cockpit for Bhavesh Patel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
